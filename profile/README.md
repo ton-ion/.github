@@ -1,4 +1,7 @@
-TONION GitHub Organization
+<h1 align="center">
+TONION 
+</h1>
+
 
 The Tonion is a team working on secure and reusable smart-contract implementations with the [Tact](https://tact-lang.org) on [TON](https://ton.org).
 We are actively working on TON development tools and reference implementations.
