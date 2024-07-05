@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="color: #cc3333;">
 TONION 
 </h1>
 
