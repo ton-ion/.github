@@ -8,7 +8,7 @@ We are actively working on TON development tools and reference implementations.
 
 The Tonion is powered by the [Dezh Technologies](https://github.com/dezh-tech) team, and the first reason for the creation of this team was to develop tools for Dezh's future and current projects.
 
-We are open to all kinds of contributions are welcomed.😃
+All kinds of contributions are welcomed.😃
 
 Development Donation address on TON:
 ```
